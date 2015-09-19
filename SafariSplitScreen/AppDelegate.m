@@ -18,7 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     UIWindow *window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
-    window.rootViewController = [[SFSafariViewController alloc] initWithURL:[NSURL URLWithString:@"http://google.com"]];
+    window.rootViewController = [[SFSafariViewController alloc] initWithURL:[NSURL URLWithString:@"https://google.com"]];
 
     self.window = window;
 
