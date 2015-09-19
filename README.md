@@ -1,5 +1,5 @@
 # SafariSplitScreen
-Super-basic Xcode 7 project that uses `SFSafariViewController` so that you can have a splitscreen browsing experience on supported multitasking devices.  This is app is for entertainment purposes only and shouldn't be considered a serious app.
+Super-basic Xcode 7 project that uses `SFSafariViewController` so that you can have a splitscreen browsing experience on supported multitasking devices.  This app is for entertainment purposes only and shouldn't be considered a serious app.
 
 ## Limitations
 
